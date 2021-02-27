@@ -36,8 +36,6 @@ const Result = (props) => {
     const mystyle = {
         display: "grid",
         gridTemplateColumns: "minmax(300px, max-content) repeat(auto-fill, 300px) 28%"
-
-
     };
 
     return (
