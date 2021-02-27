@@ -23,7 +23,7 @@ const Search = () => {
         fetch(`https://api.github.com/users/${userInput}`, {
             method: "GET",
             headers: {
-                Authorization: `token 48cf367f20ac305bacdac693aadfeca9ba8dd668 `
+                Authorization: `token ee8241a05a957162319a3b640200900c378cb15d `
             }
         })
             .then(res => res.json())
