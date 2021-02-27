@@ -63,7 +63,6 @@ const Result = (props) => {
                 <List className="repo-list">
                     <List.Item style={mystyle}>{listRepos}</List.Item>
                 </List>
-
             </div>
         </div>
     );
