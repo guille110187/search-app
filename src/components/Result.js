@@ -62,7 +62,6 @@ const Result = (props) => {
                 </Card.Content>
                 <List className="repo-list">
                     <List.Item style={mystyle}>{listRepos}</List.Item>
-
                 </List>
 
             </div>
